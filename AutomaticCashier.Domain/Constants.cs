@@ -2,8 +2,8 @@
 
 public class Constants
 {
-    public static readonly int Coin2Value = 2;
-    public static readonly int Bill5Value = 5;
-    public static readonly int Bill10Value = 10;
+    public const long Coin2Value = 2L;
+    public const long Bill5Value = 5L;
+    public const long Bill10Value = 10L;
 
 }
